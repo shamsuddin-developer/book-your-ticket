@@ -141,7 +141,8 @@ a.active {
   justify-content: space-between;
 }
 #thank-you-content {
-  display: none !important;
+  display: none;
+  visibility: hidden;
 }
 .middle {
   position: absolute;
